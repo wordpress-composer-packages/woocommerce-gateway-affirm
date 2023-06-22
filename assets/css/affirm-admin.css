@@ -1,0 +1,17 @@
+.wc-affirm-partial-capture {
+	display: none;
+}
+
+.wc-affirm-partial-capture div.capture-actions {
+	margin-top: 8px;
+	padding-top: 12px;
+	border-top: 1px solid #dfdfdf;
+}
+
+.wc-affirm-partial-capture button.capture-action {
+	float: right;
+}
+
+.wc-affirm-partial-capture button.cancel-action {
+	float: left;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wordpress-composer-packages/woocommerce-gateway-affirm",
+  "description": "",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
